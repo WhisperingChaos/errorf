@@ -1,9 +1,10 @@
 package errorft
 
 import (
-	"errorf"
 	"fmt"
 	"testing"
+
+	"github.com/WhisperingChaos/errorf"
 )
 
 type T struct {
